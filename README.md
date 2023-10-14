@@ -15,11 +15,11 @@ Anda membuat web server native sederhana yang memungkinkan Anda untuk melakukan 
    - Deskripsi: Menambahkan user baru ke dalam database.
    - Contoh Permintaan (request):
      ```json
-    {
-    "name":"salsabila",
-    "age":20,
-    "email":"salsabila@gmail.com"
-    }
+     {
+     "name":"salsabila",
+     "age":20,
+     "email":"salsabila@gmail.com"
+     }
      ```
 
 2. **Dapatkan Daftar Seluruh User**:
@@ -32,7 +32,7 @@ Anda membuat web server native sederhana yang memungkinkan Anda untuk melakukan 
    - Contoh Permintaan:
      ```json
      {
-    "nama":"irpan syahbana"
+     "nama":"irpan syahbana"
      }
      ```
 
