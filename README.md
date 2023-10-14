@@ -25,8 +25,12 @@ Anda membuat web server native sederhana yang memungkinkan Anda untuk melakukan 
 2. **Dapatkan Daftar Seluruh User**:
    - Endpoint: `GET /users`
    - Deskripsi: Mendapatkan daftar semua user yang ada dalam database (file data.js).
+     
+3. **Dapatkan Daftar Spesific User**:
+   - Endpoint: `GET /user/:nama`
+   - Deskripsi: Mendapatkan daftar user berdasarkan nama yang ada dalam database (file data.js).
 
-3. **Edit User**:
+4. **Edit User**:
    - Endpoint: `PUT /user/:nama`
    - Deskripsi: Mengedit user berdasarkan nama di database.
    - Contoh Permintaan:
@@ -36,6 +40,6 @@ Anda membuat web server native sederhana yang memungkinkan Anda untuk melakukan 
      }
      ```
 
-4. **Hapus User**:
+5. **Hapus User**:
    - Endpoint: `DELETE /user/:nama`
    - Deskripsi: Menghapus buku berdasarkan nama dari database.
