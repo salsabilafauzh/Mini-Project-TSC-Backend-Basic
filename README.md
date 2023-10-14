@@ -4,7 +4,7 @@ Tugas ini mencakup berbagai konsep JavaScript, termasuk  Template Literal, Array
 
 ## Deskripsi Tugas
 
-Anda membuat web server native sederhana yang memungkinkan Anda untuk melakukan operasi CRUD (Create, Read, Update, Delete) pada data dummy yang ada. Anda akan menggunakan Node.js untuk membuat server API, dan data akan disimpan dalam file terpisah.
+Anda membuat web server native sederhana yang memungkinkan Anda untuk melakukan operasi CRUD (Create, Read, Update, Delete) pada data dummy yang ada. Anda akan menggunakan module http pada Node.js untuk membuat server API, dan data akan disimpan dalam file terpisah.
 
 ## Contoh Endpoint dan Response
 
