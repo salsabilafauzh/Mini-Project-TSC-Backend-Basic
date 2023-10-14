@@ -1,0 +1,15 @@
+{
+  "name": "testmini",
+  "version": "1.0.0",
+  "description": "mini project",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "salsabila",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
